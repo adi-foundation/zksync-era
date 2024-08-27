@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.1.3](https://github.com/matter-labs/zksync-era/compare/zk_toolbox-v0.1.2...zk_toolbox-v0.1.3) (2024-08-27)
+
+
+### Features
+
+* Add `gateway_url` to EN config ([#2698](https://github.com/matter-labs/zksync-era/issues/2698)) ([cfdda01](https://github.com/matter-labs/zksync-era/commit/cfdda019afe26810234285411eba79ada472c888))
+* add `update-token-multiplier-setter` command ([#2688](https://github.com/matter-labs/zksync-era/issues/2688)) ([0275435](https://github.com/matter-labs/zksync-era/commit/0275435c7f3f35d9ecf7b65b06d217987cd7a505))
+* add dapp-portal support to zk_inception ([#2659](https://github.com/matter-labs/zksync-era/issues/2659)) ([835d2d3](https://github.com/matter-labs/zksync-era/commit/835d2d38d533ccd4149fa481e8b66eb9d5815d8a))
+* Provide easy prover setup ([#2683](https://github.com/matter-labs/zksync-era/issues/2683)) ([30edda4](https://github.com/matter-labs/zksync-era/commit/30edda404193938fbd55815bed164b5321d7c642))
+* **zk_toolbox:** Add holesky testnet as layer1 network ([#2632](https://github.com/matter-labs/zksync-era/issues/2632)) ([d9266e5](https://github.com/matter-labs/zksync-era/commit/d9266e5ef3910732666c00c1324256fb5b54452d))
+* **zk_toolbox:** Update rust for zk_toolbox ([#2730](https://github.com/matter-labs/zksync-era/issues/2730)) ([30e072b](https://github.com/matter-labs/zksync-era/commit/30e072bd695615b0095c8bdcfd62b77c6b0ae5e6))
+
+
+### Bug Fixes
+
+* **api:** `tx.gas_price` field ([#2734](https://github.com/matter-labs/zksync-era/issues/2734)) ([aea3726](https://github.com/matter-labs/zksync-era/commit/aea3726c88b4e881bcd0f4a60ff32a730f200938))
+
 ## [0.1.2](https://github.com/matter-labs/zksync-era/compare/zk_toolbox-v0.1.1...zk_toolbox-v0.1.2) (2024-08-20)
 
 
